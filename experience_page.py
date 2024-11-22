@@ -34,84 +34,72 @@ def experience():
     with st.container():
         col1,col2 = st.columns([3,2])
         col1.markdown(""" 
-            ### Data Scientist –– [Wonder Chrome](https://www.linkedin.com/company/wonderchrome/) (PRESENT)
-            - Conducted A/B testing experiments to assess the effectiveness of various
-            promotion strategies, resulting in a remarkable 24% increase in revenue.
-            - Developed machine learning models using scikit-learn to optimize pricing
-            strategies, leading to a substantial 12% boost in profit.
-            - Led full data lifecycle: collection, cleaning, feature engineering, modeling,
-            validation, and dashboard/report creation.
-            - Proficiently developed complex SQL queries, procedures, and reports using
-            Redshift, Sagemaker, SQL, and Python to meet diverse client needs.
-            - Developed a Large-scale multi-label text classification model using Tensorflow
-            and Keras to enhance text analysis capabilities.
+            ### Credit Analyst Technology –– [BNP Paribas CIB](https://www.linkedin.com/company/bnpparibascorporateandinstitutionalbanking/) (PRESENT)
+            - **Credit Committee Preparation and Presentation:** Prepared well-structured and detailed credit notes for strategic operations, including RCF refinancing and ABL facilities, managing an overall exposure of $1 billion, and ensuring thorough risk assessment.
+            - **Financial and Sector Analysis:** Conducted in-depth studies on the economic performance and associated risks of companies in the technology sector (semiconductors, SaaS, IoT), considering market specifics and international regulations.
+            - **Financing Structuring Contribution:** Worked on complex Leverage Buy-Out (LBO) transactions, assisting in the structuring of guarantees and optimizing financial arrangements.
+            - **Risk Evaluation and Internal Ratings:** Participated in validating internal credit ratings, providing tailored recommendations aligned with the group's internal policies and strategic requirements.
+            - **Process Automation and Optimization:** Developed VBA tools to streamline financial data analysis, reducing processing times for complex evaluations and enhancing operational efficiency.
+            - **Cross-Team Collaboration:** Closely collaborated with teams in San Francisco to assess and structure complex international credit requests.
+            - **Bond Issuance Participation:** Actively contributed to bond issuance projects in partnership with the Debt Capital Markets (DCM) and Leverage Finance teams, structuring and placing complex financings in the market.
                             """)
         col2.markdown("""
             **Tools:**
 
-            - Programming Languages: Python, SQL
-            - Machine Learning: Scikit-Learn, TensorFlow, Keras
-            - Data Visualization: Matplotlib, Seaborn, Plotly, Retool, Tableau
-            - Cloud: Redshift, Sagemaker, S3 Bucket
-            - ETL Processes: Custom SQL, Python scripts
-            - A/B Testing: Custom Python scripts
-            - Other Tools: Git, Colab Notebooks, Retool
+            - **Financial Analysis:** Capital IQ, Refinitiv
+            - **Programming Languages:** Python, VBA
+            - **Database Management:** SQL, SQLite
+            - **Data Automation:** Excel VBA, Python scripts
+            - **Market & Sector Reports:** Fixed Income (Investment Grade, High Yield), Corporate Credit
+            - **Financial Products:** RCF, ABL, CDS, TRS, EQD, Term Loans, Bonds
+            - **Collaboration:** Credit and Coverage San Francisco BNP CIB, Loan Capital Market, Leverage Finance, Global Trade Solutions
             """)
     with st.container():
         col1, col2 = st.columns([3, 2])
         col1.markdown("""
-           ### Data Scientist –– Freelance [Upwork](https://www.upwork.com/freelancers/~010f3758a004ea64dd?viewMod) (PRESENT)
+           ### Trader Assistant [La Française Asset Management](https://www.linkedin.com/company/lafrancaise-group/posts/?feedView=all) (Jun. 2022 - Dec. 2022)
     
-           - **Top Rated freelancer**, representing the top 10% of Upwork talent.
-           - Collaborated with 7 clients to understand their company needs and devise data-driven solutions.
-           - Successfully completed 6 jobs, each with a 5-star rating and positive feedback.
-           - Facilitated end-to-end development, testing, and monitoring of analytical models for 5 clients.
-           - Designed and developed a News search tool leveraging LLM and Langchain technologies, enhancing the efficiency of information retrieval and analysis.
-           - Efficiently managed Azure Databricks, executed ETL, and developed ML models for small and large datasets (125GB, 1B rows), automated scheduling, tracked experiments, implemented Auto ML, and maintained resource efficiency.
+           - **Process Automation:** Developed automated solutions in VBA for weekly reports, databases, and risk alerts on bonds via MarketAxess, streamlining reporting and enhancing the speed of risk analysis.
+           - **Risk and Collateral Management:** Managed a broker quotation database using Python and SQLite, facilitating the evaluation of counterparties and valuation of collateral for transactions.
+           - **Sectoral Analysis and Market Monitoring:** Compiled sectoral reports on the high-yield bond market, prepared performance summaries for high-yield funds, and created performance indicators for bond portfolios, improving strategic decision-making.
+           - **Decision Support:** Assisted in the preparation of credit summaries for potential bond issuers, providing critical input to support the portfolio manager's investment decisions.
            """)
         col2.markdown(""" 
         **Tools:**
         
-        - Programming Languages: Python, R, SQL
-        - Machine Learning: Scikit-Learn, TensorFlow, PyTorch, Auto ML
-        - Data Visualization: Matplotlib, Seaborn, Plotly
-        - Big Data Technologies: Azure Databricks, Spark
-        - ETL Processes: Azure Data Factory
-        - Generative AI: LLM, Langchain
-        - Other Tools: Git, Jupyter Notebooks, streamlit  """)
+        - **Financial Analysis:** Capital IQ, Refinitiv, BQuant (Bloomberg)
+        - **Programming Languages:** Python, VBA
+        - **Database Management:** SQL, SQLite
+        - **Data Automation:** Excel VBA, Python scripts
+        - **Market & Sector Reports:** High Yield, Investment Grade Fixed Income, CDS Index Market
+        - **Financial Products:** Bonds, Total Return Swap (TRS), Credit Default Swap (CDS)
+        - **Collaboration:** Portfolio Management, Risk Management, Trading Desk, MarketAxess, Bloomberg  """)
     with st.container():
         col1, col2 = st.columns([3,2])
 
         col1.markdown("""
-            ### Artificial Intelligence Engineer intern –– [Uniquify Inc](https://www.uniquify.com)(August 2021-October 2021 )
-            - Led training and development of neural networks using TensorFlow, optimizing
-            models for enhanced accuracy and efficiency.
-            - Conducted comprehensive experiments with TensorFlow scripts and analyzed
-            results to enhance model performance and understand framework dynamics.
-            - Played a key role in debugging and improving an automation framework for
-            neural network and TensorFlow scripts, streamlining workflows and ensuring
-            reliable model training.
-            - Developed advanced image processing and segmentation algorithms to solve
-            complex problems, contributing to project success.
+            ### Data Scientist –– [Alten S.A.](https://www.alten.com/)(Mar. 2021- Aug. 2021)
+            - **Advanced Visualization Tools Development:** Designed and implemented an interactive visualization tool to analyze data science ontologies, improving accessibility and understanding of complex data for teams. This tool enabled users to better interpret and utilize large-scale data sets, driving more informed decision-making.
+            - **AI Solutions Implementation:** Developed innovative IT solutions for the visualization and management of AI model databases, incorporating dynamic features to simplify usage for technical teams. These solutions enhanced data accessibility and provided real-time updates, contributing to improved workflows for data scientists and engineers.
+            - **Analytical Process Optimization:** Deployed advanced technologies, including JavaScript and Node.js, to optimize the analytical process. Integrated real-time updates to ensure seamless data visualization and enhanced the efficiency of decision-making within the organization.
             """)
         col2.markdown("""
             **Tools:**
     
-            - Programming Languages: Python
-            - Machine Learning: TensorFlow, PyTorch
-            - Image Processing: OpenCV, custom Python scripts
-            - Object Detection: YOLO
-            - Image Labeling:  LabelImg
-            - Automation: Custom Python scripts
+            - **Programming Languages:** JavaScript, Python, Node.js, Electron.js
+            - **Version Control:** GitHub, GitLab
+            - **Data Visualization:** JavaScript libraries (D3.js, etc.), Interactive UI/UX design
+            - **Data Automation:** Python scripts, Node.js applications
+            - **AI Solutions:** AI model database management tools
+            - **Collaboration:** Technical Teams, Data Scientists, Engineers
             """)
     with st.container():
         col1, col2 = st.columns([3,2])
         col1.markdown("""
-        ### Data Analyst –– [Centriqe Inc](https://bcentriqe.ai) (February 2020 - January 2021)
-        - Developed an NLP system using NLTK to automate text analysis, resulting in a significant 39% reduction in manual analysis efforts, improving efficiency and accuracy.
-        - Leveraged analytical and technical expertise to provide actionable insights and proposals, driving business improvement strategies.
-        - Designed and implemented a range of predictive models, including classification and forecasting models, using various machine learning tools to solve complex business challenges.
-        - Identified trends, key metrics, and critical data points, generating insightful dashboards using a variety of data visualization tools to facilitate data-driven decision-making.
+        ### Data Scientist –– [GAC Technology](https://www.gac-technology.com/) (May. 2020 - Jul. 2021)
+        - **DAI Chatbot Development:** Initiated the development of an AI-based chatbot using neural networks to enhance customer support. Designed and implemented key features for interactive support, improving customer engagement and response time.
+        - **Dataset Creation for Model Training:** Created a comprehensive dataset for training the neural network model, ensuring the data was representative of common customer inquiries and providing a solid foundation for the AI to learn from.
+        - **Technology Monitoring and Chatbot Design:** Conducted ongoing research on advancements in neural networks and chatbot technologies, using Python, Keras, and TensorFlow to optimize the chatbot’s performance and integrate cutting-edge features. Continuously improved the model based on the latest industry trends.
             """)
         col2.markdown("""
         **Tools & Skills:**
