@@ -42,7 +42,7 @@ def aboutMe():
         
         - **About me:**
         <div class="justify-text">
-        My name is Alexis Abdreani and I am a dedicated Credit Analyst with a strong foundation in finance, credit, and equity markets. and a background in data science with an engineering degree in Computer Science.
+        My name is Alexis Andreani and I am a dedicated Credit Analyst with a strong foundation in finance, credit, and equity markets. and a background in data science with an engineering degree in Computer Science.
         My professional journey has equipped me with a unique blend of analytical skills and technological expertise, allowing me to deliver comprehensive credit assessments and innovative solutions that drive impactful decisions.
         In my role at BNP Paribas CIB, I have successfully prepared credit memos for new requests and annual reviews, including underwriting RCF refinances for investment-grade clients managing a portfolio with a total exposure of more than $1Bn. 
         My focus on the technology sector has allowed me to conduct in-depth financial and industry analyses, evaluating credit ratings and managing credit risk portfolios for U.S. clients.
