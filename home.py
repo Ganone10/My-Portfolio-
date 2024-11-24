@@ -1,6 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 import base64
+import os
 from streamlit_lottie import st_lottie
 import requests
 import json
@@ -10,12 +11,13 @@ from upwork_page import feedbackRating
 from project_page import projects
 from contact_form import contact
 
- # Page setup
-st.set_page_config(
-    page_title="Alexis Andreani",
-    page_icon="📋",
-    layout="wide",
-)
+
+# Get the PORT from environment variable and convert to an integer
+port = int(os.getenv("PORT", 8501))  # Default to 8501 if PORT is not set
+
+st.set_page_config(page_title="Alexis Andreani", page_icon="🌐")
+
+
 
 
 def gradient(color1, color2, color3, content1, content2):
