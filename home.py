@@ -12,8 +12,6 @@ from project_page import projects
 from contact_form import contact
 
 
-# Get the PORT from environment variable and convert to an integer
-port = int(os.getenv("PORT", 8501))  # Default to 8501 if PORT is not set
 
 st.set_page_config(page_title="Alexis Andreani", page_icon="🌐")
 
@@ -44,15 +42,10 @@ def aboutMe():
         
         - **About me:**
         <div class="justify-text">
-        My name is Alexis Andreani and I am a dedicated Credit Analyst with a strong foundation in finance, credit, and equity markets. and a background in data science with an engineering degree in Computer Science.
-        My professional journey has equipped me with a unique blend of analytical skills and technological expertise, allowing me to deliver comprehensive credit assessments and innovative solutions that drive impactful decisions.
-        In my role at BNP Paribas CIB, I have successfully prepared credit memos for new requests and annual reviews, including underwriting RCF refinances for investment-grade clients managing a portfolio with a total exposure of more than $1Bn. 
-        My focus on the technology sector has allowed me to conduct in-depth financial and industry analyses, evaluating credit ratings and managing credit risk portfolios for U.S. clients.
-        Complementing my credit expertise, my background in data science and automation has empowered me to streamline processes through VBA-based tools and manage broker quotation databases using Python and SQLite. 
-        I take pride in designing dynamic financial projection models and developing automated reporting solutions that enhance decision-making efficiency.
-        I hold an MSc in Finance from EM Lyon Business School, specializing in Market & Quantitative Finance, and have pursued advanced studies in Applied Mathematics and Computer Engineering. 
-        Passionate about coding and continuous learning, I leverage my technical skills to explore innovative solutions in both finance and technology.
-        
+        My name is Alexis Andreani, and I am a dedicated Credit Analyst with a strong foundation in finance, credit, and equity markets, complemented by a background in data science and a Computer Science Engineering degree. My professional journey has equipped me with a unique blend of analytical skills and technological expertise, enabling me to deliver comprehensive credit assessments and develop innovative solutions that drive impactful decisions.  
+        In my role at BNP Paribas CIB, I have successfully prepared credit memos for new requests and annual reviews, including underwriting RCF refinances for investment-grade clients and managing a portfolio with a total exposure exceeding $1 billion. Focusing on the technology sector, I have conducted in-depth financial and industry analyses, evaluated credit ratings, and managed credit risk portfolios for U.S. clients.  
+        Beyond my credit expertise, my background in data science and automation has allowed me to streamline processes through VBA-based tools and manage broker quotation databases using Python and SQLite. I take pride in designing dynamic financial projection models and developing automated reporting solutions that enhance decision-making efficiency.  
+        I hold an MSc in Finance from EM Lyon Business School, specializing in Market & Quantitative Finance, and have pursued advanced studies in Applied Mathematics and Computer Engineering. Passionate about coding and continuous learning, I leverage my technical skills to explore innovative solutions at the intersection of finance and technology.         
         </div>
         """, unsafe_allow_html=True)
 

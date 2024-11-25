@@ -1,1 +1,2 @@
-web: streamlit run home.py --server.port=$PORT --server.enableCORS=false
+web: streamlit run home.py
+
