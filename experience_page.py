@@ -34,7 +34,7 @@ def experience():
     with st.container():
         col1,col2 = st.columns([3,2])
         col1.markdown(""" 
-            ### Credit Analyst Technology –– [BNP Paribas CIB](https://www.linkedin.com/company/bnpparibascorporateandinstitutionalbanking/) (PRESENT)
+            ### Credit Analyst Technology –– [BNP Paribas CIB](https://cib.bnpparibas/) (PRESENT)
             - **Credit Committee Preparation and Presentation:** Prepared well-structured and detailed credit notes for strategic operations, including RCF refinancing and ABL facilities, managing an overall exposure of $1 billion, and ensuring thorough risk assessment.
             - **Financial and Sector Analysis:** Conducted in-depth studies on the economic performance and associated risks of companies in the technology sector (semiconductors, SaaS, IoT), considering market specifics and international regulations.
             - **Financing Structuring Contribution:** Worked on complex Leverage Buy-Out (LBO) transactions, assisting in the structuring of guarantees and optimizing financial arrangements.
@@ -57,7 +57,7 @@ def experience():
     with st.container():
         col1, col2 = st.columns([3, 2])
         col1.markdown("""
-           ### Trader Assistant [La Française Asset Management](https://www.linkedin.com/company/lafrancaise-group/posts/?feedView=all) (Jun. 2022 - Dec. 2022)
+           ### Trader Assistant [La Française Asset Management](https://www.la-francaise.com/fr/) (Jun. 2022 - Dec. 2022)
     
            - **Process Automation:** Developed automated solutions in VBA for weekly reports, databases, and risk alerts on bonds via MarketAxess, streamlining reporting and enhancing the speed of risk analysis.
            - **Risk and Collateral Management:** Managed a broker quotation database using Python and SQLite, facilitating the evaluation of counterparties and valuation of collateral for transactions.

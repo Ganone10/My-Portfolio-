@@ -176,7 +176,7 @@ def projects():
 
 
                 # Adding the GitHub link
-                st.markdown("""**[GitHub](https://github.com/archanags001/coding_challenge/blob/main/Coding_challenge_.ipynb)**""")
+                st.markdown("""**[GitHub](https://github.com/Ganone10/Credit-Analysis-with-DCF)**""")
 
         with col1:
             with st.container(border=True):
@@ -208,8 +208,8 @@ def projects():
 
 
                 # Adding the GitHub link
-                c1.markdown("""**[Link to app](https://portfolio-archana.streamlit.app)**  """)
-                c2.markdown("""**[GitHub](https://github.com/archanags001/Portfolio/tree/main)**""")
+                c1.markdown("""**[Link to app](https://alexis0andreani0portfolio-b4ab2538e1e0.herokuapp.com/)**  """)
+                c2.markdown("""**[GitHub](https://github.com/Ganone10/My-Portfolio-)**""")
 
 
 
